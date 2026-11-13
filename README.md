@@ -41,7 +41,7 @@ side-quests:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> Designing websites for small businesses at **[TwoDazzle](https://twodazzle.com)**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> Leveling up in **Three.js, Vue 3 and 3D on the web**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="20" /> Crafting a pixel/arcade-neon portfolio with a `/lab` for creative work
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tropical%20Fish.png" width="20" /> Off-screen: aquascaping, gym and Valorant
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tropical%20Fish.png" width="20" /> Off-screen: aquascaping, Tekken and Valorant
 
 <br clear="right"/>
 
